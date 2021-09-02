@@ -2,7 +2,7 @@
 <span><em>Development student at ETE <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ete.iburajordao/">ETE</a></em></span><br>
 <span><em>Front-end Developer Jr. Freelancer</em></span>
 <br><br>
-<p>born and raised in Recife, Pernambuco, were I live until today. I'm crazy about games,animes, music, theater, cinema, and comics an assumed nerd since childhood. communicative, proactive and cheerful, a person who values simple and humble things and I love being with my family and friends and my animals.<p>
+<p>born and raised in Recife :beach_umbrella: - Pernambuco :brazil:, were I live until today. I'm crazy about games,animes, music, theater, cinema, and comics an assumed nerd since childhood. communicative, proactive and cheerful, a person who values simple and humble things and I love being with my family and friends and my animals.<p>
 <!--
 **Stanleyhenrique/StanleyHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
