@@ -1,5 +1,5 @@
 <h3>Hello World! I'm Stanley! Welcome to my GitHub. :sunglasses: </h3>
-<span><em>Systems Development student at <a rel="noopener noreferrer" href="https://www.instagram.com/ete.iburajordao/" target="_blank" >ETE</a></em></span><br>
+<span><em>Systems Development student at <a rel="noopener noreferrer" href="https://www.instagram.com/ete.iburajordao/" target="_blank">ETE</a></em></span><br>
 <span><em>Front-end Developer Jr. Freelancer</em></span>
 <br><br>
 <p>born and raised in Recife - PE - Brazil, were I live until today. I'm crazy about games,animes, music, theater, cinema, and comics an assumed nerd since childhood. communicative, proactive and cheerful, a person who values simple and humble things and I love being with my family and friends and my animals.
